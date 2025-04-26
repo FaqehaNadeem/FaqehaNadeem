@@ -1,4 +1,4 @@
-- Currently painting with p5.js and Processing
+
 
 <!---
 FaqehaNadeem/FaqehaNadeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
